@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
   "recommendations": ["angular.ng-template"]
 }
+=======
+{ "recommendations": ["expo.vscode-expo-tools"] }
+>>>>>>> 878fe8805cd8738dacb323d3bb7b0306c93c896c
