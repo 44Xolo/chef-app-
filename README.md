@@ -5,21 +5,21 @@ A highly user-friendly and updated Angular-based online restaurant ordering syst
 ## Features
 
 ### Customer Features
-- **Welcome Screen: Designed to be home with links to selecting orders to be made or the administration of the site.
-- **Customer Ordering: Name and table number order customization.
+- Welcome Screen: Designed to be home with links to selecting orders to be made or the administration of the site.
+- Customer Ordering: Name and table number order customization.
 - **Menu Browsing**:
 - Menu as a whole should be filtered as to course (Mains, Starters, Desserts, Drinks).
-- **Real-time Cart: Add/ remove items with quantity control and roll overs.
+- Real-time Cart: Add/ remove items with quantity control and roll overs.
 - **Special Discounts**: Auto
  bypass Buy 2 mains, get R50 disc. computation.
-- **Card and Cash payment with validation support.
-- **Order Confirmation: Special order numbers and conspicuous payment instructions.
+- Card and Cash payment with validation support.
+- Order Confirmation: Special order numbers and conspicuous payment instructions.
 
 ### Admin Features
-- **Chef Admin Panel**: Staff management secure login with a password of 'admin'.
-- **Plexus With stock Control Mark as in/out of stock with cart removal automatic.
-- **Menu ManagementAdd new menu entries dynamically.
-- **Order Tracking: Physically check existing orders.
+- Chef Admin Panel: Staff management secure login with a password of 'admin'.
+- Plexus With stock Control Mark as in/out of stock with cart removal automatic.
+- Menu ManagementAdd new menu entries dynamically.
+- Order Tracking: Physically check existing orders.
 
 ### Technical Features
 - **Responsive Design environment: Mobile/Desktop Networked.
@@ -30,11 +30,11 @@ A highly user-friendly and updated Angular-based online restaurant ordering syst
 
 ## Technologies Used
 
-- **Angular 17+**: Application framework (Angular, n.d.).
-- **TypeScript**: Type safe development (Microsoft, n.d.).
-- **Tailwind CSS**: Utility-first CSS framework (Tailwind Labs, n.d.).
-- **Angular Signals**: State management: Modern reactive (Angular, n.d.).
-- **RxJS**: Reactive programming of complex state management (RxJS, n.d.).
+- Angular 17+: Application framework (Angular, n.d.).
+- TypeScript: Type safe development (Microsoft, n.d.).
+- Tailwind CSS: Utility-first CSS framework (Tailwind Labs, n.d.).
+- Angular Signals: State management: Modern reactive (Angular, n.d.).
+- RxJS: Reactive programming of complex state management (RxJS, n.d.).
 
 ## Installation
 
@@ -76,19 +76,19 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Usage
 
 ### For Customers
-1. **Start Order: Click on the welcome screen Start Your Order.
-2. **Configuration Welcome to the table, please enter your name and table number.
+1. Start Order: Click on the welcome screen Start Your Order.
+2. Configuration Welcome to the table, please enter your name and table number.
 3. Browse Menu: There are categories filters that are used to find things.
-4. **Add to Cart**: Click on the desired items and click on the Add to Cart button.
+4. Add to Cart: Click on the desired items and click on the Add to Cart button.
 5. Check cart Flood check cart 4 quantities, discounts.
-6. **Payment: Pass Card or Cash payment.
-7. **Complete: Payments and order confirmation.
+6. Payment: Pass Card or Cash payment.
+7. Complete: Payments and order confirmation.
 
 ### For Staff/Admin
-1. **Login: Click on Staff / Admin Login and log-in with password admin.
-2. **Manage Stock: switch the items in the admin panel.
-3. **Add Items**: Add using the form, items to the menu.
-4. **Watch Orders: See up to date orders.
+1. Login: Click on Staff / Admin Login and log-in with password admin.
+2. Manage Stock: switch the items in the admin panel.
+3. Add Items: Add using the form, items to the menu.
+4. Watch Orders: See up to date orders.
 
 ## Project Structure
 
@@ -96,15 +96,15 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 atero-eats/
 ├── src/
 │   ├── app/
-├── app.ts              # Main application component
-├── app.config.ts   # Application configuration
-│   │   ├── app.html            # Main template
-│   │   └── app.css             # Global styles
+├── app.ts               Main application component
+├── app.config.ts    Application configuration
+│   │   ├── app.html             Main template
+│   │   └── app.css              Global styles
 └Kindly concur with the terms of the unlimited 30-day renovation.
-├── public/                     # Static assets
+├── public/                     Static assets
 ├── angular.json                Angular CLI configuration.
 UK managed to completely ignore the risks associated with this method.<|human|>UK has been able to fully disregard the danger of this approach.
-└── README.md                  # This file
+└── README.md                   This file
 ```
 
 ## Development
@@ -128,10 +128,6 @@ UK managed to completely ignore the risks associated with this method.<|human|>U
 3. Commit changes ( git commit -m -Add amazing featureấdtax)
 4. Push to the branch ( git push origin feature/amazing-feature)
 5. Open a Pull Request
-
-## License
-
-The project falls under a license of MIT License see the LICENSE file.
 
 ## Support
 
@@ -164,7 +160,7 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+You can start developing by editing the files inside the app directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## Get a fresh project
 
@@ -174,7 +170,7 @@ When you're ready, run:
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This command will move the starter code to the app-example directory and create a blank app directory where you can start developing.
 
 ## Learn more
 
